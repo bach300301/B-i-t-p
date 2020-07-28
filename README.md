@@ -1,8 +1,6 @@
 # Bai-tap
 Bài tập lớn Cấu trúc dữ liệu và Giải thuật
 
-Tác giả: Phạm Xuân Bách
-
 Giới thiệu bài toán: Đo độ trùng khớp giữa tất cả các cặp tập tin văn bản trong một thư mục dữ liệu. 
 Đây cũng được coi là một trường hợp đơn giản nhất của bài toán phát hiện đạo văn.
 
